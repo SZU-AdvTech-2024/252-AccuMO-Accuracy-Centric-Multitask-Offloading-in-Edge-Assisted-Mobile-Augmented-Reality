@@ -1,16 +1,7 @@
 @inproceedings{REPO252,
     author = "Kong, Z. Jonny and Xu, Qiang and Meng, Jiayi and Hu, Y. Charlie",
-    address = "New York, NY, USA",
-    articleno = "30",
     booktitle = "Proceedings of the 29th Annual International Conference on Mobile Computing and Networking",
-    doi = "10.1145/3570361.3592531",
-    isbn = "9781450399906",
-    keywords = "odometry, depth estimation, multitask offloading, DNN offloading, edge computing, mobile augmented reality",
-    location = "Madrid, Spain",
     numpages = "16",
-    publisher = "Association for Computing Machinery",
-    series = "ACM MobiCom '23",
     title = "{AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality}",
-    url = "https://doi.org/10.1145/3570361.3592531",
     year = "2023"
 }
